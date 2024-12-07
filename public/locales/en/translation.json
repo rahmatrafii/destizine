@@ -1,0 +1,258 @@
+{
+  "headerConstant": {
+    "placeholder": "search anything here...",
+    "navLink": {
+      "gunung": {
+        "title": "Mountain",
+        "content": [
+          "Puncak Jaya",
+          "Mount Kerinci",
+          "Mount Semeru",
+          "Mount Rinjani",
+          "Mount Slamet",
+          "Mount Merapi",
+          "Mount Sumbing",
+          "Mount Lawu",
+          "Mount Merbabu",
+          "Mount Agung"
+        ]
+      },
+      "alam": {
+        "title": "Nature",
+        "content": [
+          "Bromo Tengger Semeru National Park",
+          "Raja Ampat",
+          "Lake Toba",
+          "Komodo Island",
+          "Gunung Leuser National Park",
+          "Komodo National Park",
+          "Kuta Beach",
+          "Borobudur Temple",
+          "Bukit Barisan Selatan National Park",
+          "Ujung Kulon National Park, Banten"
+        ]
+      },
+      "pantai": {
+        "title": "Beach",
+        "content": [
+          "Kuta Beach",
+          "Parangtritis Beach",
+          "Pink Beach",
+          "Tanjung Bira Beach",
+          "Ora Beach",
+          "Pandawa Beach",
+          "Papuma Beach",
+          "Belitung Beach",
+          "Seminyak Beach",
+          "Tanjung Lesung Beach"
+        ]
+      },
+      "romantis": {
+        "title": "Romantic",
+        "content": [
+          "Borobudur Temple",
+          "Prambanan Temple",
+          "Yogyakarta Palace",
+          "Solo Palace",
+          "Taman Sari",
+          "Fort Rotterdam",
+          "Kutai Kartanegara Kings' Tombs",
+          "Kuto Besak Fort",
+          "Vredeburg Fort",
+          "Imogiri Kings' Tombs"
+        ]
+      },
+      "edukasi": {
+        "title": "Education",
+        "content": [
+          "Indonesia National Museum",
+          "Satria Mandala Museum",
+          "Geology Museum Bandung",
+          "Bogor Zoological Museum",
+          "Bank Indonesia Museum",
+          "Tsunami Aceh Museum",
+          "Wayang Museum",
+          "Ullen Sentalu Museum",
+          "Fatahillah Museum",
+          "Sangiran Ancient Man Museum"
+        ]
+      },
+      "sejarah": {
+        "title": "History",
+        "content": [
+          "Borobudur Temple",
+          "Prambanan Temple",
+          "Yogyakarta Palace",
+          "Solo Palace",
+          "Taman Sari",
+          "Fort Rotterdam",
+          "Kutai Kartanegara Kings' Tombs",
+          "Kuto Besak Fort",
+          "Vredeburg Fort",
+          "Imogiri Kings' Tombs"
+        ]
+      }
+    }
+  },
+  "homeConstant": {
+    "subText": "• Explore the beauty of Indonesia!",
+    "mainText": ["Vacation & enjoy", " new places ", "in Indonesia"],
+    "paragraphs": "Destinize keeps you always updated on new vacation spots in Indonesia by following influencers' developments on social media",
+
+    "button1": "Get Started Now",
+    "button2": "Play Demo"
+  },
+  "favoriteConstant": {
+    "subText": "FAVORITE DESTINATIONS",
+    "mainText": "• Discover Your Favorite Destinations",
+    "image": [
+      {
+        "name": "Pinggan Village",
+        "location": "Bali",
+        "src": "desa-pinggan.png"
+      },
+      {
+        "name": "Diamond Beach",
+        "location": "Bali",
+        "src": "diamond-beach.png"
+      },
+      {
+        "name": "Bromo Mountain",
+        "location": "East Java",
+        "src": "gunung-bromo.png"
+      },
+      {
+        "name": "Ijen Crater",
+        "location": "East Java",
+        "src": "kawah-ijen.png"
+      },
+      {
+        "name": "Labuan Bajo",
+        "location": "NTT",
+        "src": "labuan-bajo.png"
+      },
+      {
+        "name": "Pink Beach",
+        "location": "NTT",
+        "src": "pantai-pink.png"
+      },
+
+      {
+        "name": "Nusa Penida Island",
+        "location": "NTT",
+        "src": "pulau-penida.png"
+      },
+
+      {
+        "name": "Wajag Island",
+        "location": "Bali",
+        "src": "pulau-wajag.png"
+      },
+      {
+        "name": "Baluran National Park",
+        "location": "East Java",
+        "src": "taman-nasional-baluran.png"
+      }
+    ]
+  },
+  "reservasiConstant": {
+    "subText": "PLACE RESERVATION",
+    "mainText": "Don't Want to Queue? Just Reserve!",
+    "ContentText": [
+      {
+        "img": "search.svg",
+        "title": "Find the Place You Want",
+        "paragraph": "Discover your next destination to visit with Destinize"
+      },
+      {
+        "img": "pencil.svg",
+        "title": "Fill in Data and Confirm Payment",
+        "paragraph": "Write and complete your data for booking purposes"
+      },
+      {
+        "img": "love.svg",
+        "title": "Just Enter and Enjoy",
+        "paragraph": "you can enter and enjoy your vacation without any hindrance"
+      }
+    ]
+  },
+  "cariTempatConstant": {
+    "subText": "SEARCH TOURIST SPOTS",
+    "mainText": "• Search Tourist Spots Near You",
+    "paragraph": "This feature allows you to search for tourist spots or popular places in your area, so you will always be updated and not outdated",
+    "category": [
+      {
+        "title": "Popular Near You",
+        "paragraph": "Tourist spots that are popular and known by everyone near you"
+      },
+      {
+        "title": "Favorite Near You",
+        "paragraph": "Favorite places liked by everyone around your area"
+      },
+      {
+        "title": "Busy Near You",
+        "paragraph": "Spots most visited by locals and tourists alike"
+      }
+    ]
+  },
+  "galleryAndBlog": {
+    "subText": "GET TO KNOW DESTINIZE",
+    "mainText": "• Tourism Gallery & Travel Blog",
+    "content": [
+      {
+        "title": "Tips for Climbing Mount Bromo Without Getting Tired Quickly",
+        "date": "DECEMBER 26, 2021",
+        "description": "So here it is, guys, do you know Bromo? Yeah, the mountain!"
+      },
+      {
+        "title": "Cool Photo Tips at Ijen Crater",
+        "description": "So there are some poses that I think are cool when at Ijen Crater..."
+      }
+    ],
+    "google": "Google",
+    "trending": "Trending"
+  },
+  "footerConstant": {
+    "description": "Destinize is a website or application service that helps you choose or recommend places dubbed 'hidden gems' to be more known and crowded",
+    "content": [
+      {
+        "title": "About",
+        "lists": [
+          "About Us",
+          "Blog",
+          "Careers",
+          "Jobs",
+          "News",
+          "Gallery",
+          "Affiliate"
+        ]
+      },
+      {
+        "title": "Support",
+        "lists": [
+          "Contact Us",
+          "Online Chat",
+          "Whatsapp",
+          "Telegram",
+          "Tickets",
+          "Call Center",
+          "Help"
+        ]
+      },
+      {
+        "title": "FAQ",
+        "lists": [
+          "Account",
+          "Organize",
+          "Order",
+          "Payment",
+          "Return",
+          "Copyright",
+          "Language"
+        ]
+      }
+    ]
+  },
+  "lihatSemua": "view all",
+  "bacaSelengkapnya": "read more..."
+}

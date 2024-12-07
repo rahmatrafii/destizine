@@ -1,0 +1,258 @@
+{
+  "headerConstant": {
+    "placeholder": "cari apapun disini...",
+    "navLink": {
+      "gunung": {
+        "title": "Gunung",
+        "content": [
+          "Puncak Jaya",
+          "Gunung Kerinci",
+          "Gunung Semeru",
+          "Gunung Rinjani",
+          "Gunung Slamet",
+          "Gunung Merapi",
+          "Gunung Sumbing",
+          "Gunung Lawu",
+          "Gunung Merbabu ",
+          "Gunung Agung"
+        ]
+      },
+      "alam": {
+        "title": "Alam",
+        "content": [
+          "Taman Nasional Bromo Tengger Semeru",
+          "Raja Ampat",
+          "Danau Toba",
+          "Pulau Komodo",
+          "Taman Nasional Gunung Leuser",
+          "Taman Nasional Komodo",
+          "Pantai Kuta",
+          "Candi Borobudur",
+          "Taman Nasional Bukit Barisan Selatan",
+          "Taman Nasional Ujung Kulon, Banten"
+        ]
+      },
+      "pantai": {
+        "title": "Pantai",
+        "content": [
+          "Pantai Kuta",
+          "Pantai Parangtritis",
+          "Pantai Pink",
+          "Pantai Tanjung Bira",
+          "Pantai Ora",
+          "Pantai Pandawa",
+          "Pantai Papuma",
+          "Pantai Belitung",
+          "Pantai Seminyak",
+          "Pantai Tanjung Lesung"
+        ]
+      },
+      "romantis": {
+        "title": "Romantis",
+        "content": [
+          "Candi Borobudur",
+          "Candi Prambanan",
+          "Keraton Yogyakarta",
+          "Keraton Solo ",
+          "Taman Sari",
+          "Benteng Fort Rotterdam",
+          "Makam Raja-raja Kutai Kartanegara",
+          "Benteng Kuto Besak",
+          "Benteng Vredeburg",
+          "Makam Raja-raja Imogiri"
+        ]
+      },
+      "edukasi": {
+        "title": "Edukasi",
+        "content": [
+          "Musium Nasional Indonesia",
+          "Musium Satria Mandala",
+          "Musium Geologi Bandung",
+          "Musium Zoologi Bogor",
+          "Musium Bank Indonesia",
+          "Musium Tsunami Aceh",
+          "Musium Wayang",
+          "Musium Ullen Sentalu",
+          "Musium Fatahillah",
+          "Musium Manusia Purba Sangiran"
+        ]
+      },
+      "sejarah": {
+        "title": "Sejarah",
+        "content": [
+          "Candi Borobudur",
+          "Candi Prambanan",
+          "Keraton Yogyakarta",
+          "Keraton Solo ",
+          "Taman Sari",
+          "Benteng Fort Rotterdam",
+          "Makam Raja-raja Kutai Kartanegara",
+          "Benteng Kuto Besak",
+          "Benteng Vredeburg",
+          "Makam Raja-raja Imogiri"
+        ]
+      }
+    }
+  },
+  "homeConstant": {
+    "subText": "• Jelajahi indahnya Indonesia!",
+    "mainText": ["Liburan & nikmati", " tempat baru ", "di Indonesia"],
+    "paragraphs": "Destinize membuat kamu selalu update terkait tempat liburan baru di Indonesia dengan mengikuti perkembangan para influencer di sosial media",
+
+    "button1": "Mulai sekarang",
+    "button2": "putar demo"
+  },
+  "favoriteConstant": {
+    "subText": "DESTINASI FAVORITE",
+    "mainText": "• Temukan Destinasi Favoritmu",
+    "image": [
+      {
+        "name": "Desa Pinggan",
+        "location": "Bali",
+        "src": "desa-pinggan.png"
+      },
+      {
+        "name": "Pantai Diamond",
+        "location": "bali",
+        "src": "diamond-beach.png"
+      },
+      {
+        "name": "gunung Bromo",
+        "location": "Jawa Timur",
+        "src": "gunung-bromo.png"
+      },
+      {
+        "name": "Kawah Ijen",
+        "location": "Jawa Timur",
+        "src": "kawah-ijen.png"
+      },
+      {
+        "name": "Labuan Bajo",
+        "location": "NTT",
+        "src": "labuan-bajo.png"
+      },
+      {
+        "name": "Pantai Pink",
+        "location": "NTT",
+        "src": "pantai-pink.png"
+      },
+
+      {
+        "name": "Pulau Penida",
+        "location": "NTT",
+        "src": "pulau-penida.png"
+      },
+
+      {
+        "name": "Pulau Wajag",
+        "location": "Bali",
+        "src": "pulau-wajag.png"
+      },
+      {
+        "name": "Taman Nasional Baluran",
+        "location": "Jawa Timur",
+        "src": "taman-nasional-baluran.png"
+      }
+    ]
+  },
+  "reservasiConstant": {
+    "subText": "RESERVASI TEMPAT",
+    "mainText": "Gak Mau Ngantri? Reservasi Aja!",
+    "ContentText": [
+      {
+        "img": "search.svg",
+        "title": "Cari Tempat Yang Kamu Mau",
+        "paragraph": "Temukan Destinasi Selanjutnya yang akan kamu kunjungi bersama Destinize"
+      },
+      {
+        "img": "pencil.svg",
+        "title": "Isi Data dan Konfirmasi Pembayaran",
+        "paragraph": "Tulis dan Lengkapi data kamu untuk keperluan data booking"
+      },
+      {
+        "img": "love.svg",
+        "title": "Tinggal Masuk dan Enjoy",
+        "paragraph": "kamu bisa langsung masuk dan enjoy liburan kamu tanpa hambatan"
+      }
+    ]
+  },
+  "cariTempatConstant": {
+    "subText": "CARI TEMPAT WISATA",
+    "mainText": "• Cari Tempat Wisata Didekatmu",
+    "paragraph": "Fitur ini memungkinkan kamu untuk mencari tempat wisata atau tempat yang sedang populer di daerah kamu dengan begitu kamu akan selalu update dan gak kudet lagi",
+    "category": [
+      {
+        "title": "Populer di dekatmu",
+        "paragraph": "Tempat pariwisata yang populer dan pasti dikenal semua orang didekatmu"
+      },
+      {
+        "title": "Favorit di dekatmu",
+        "paragraph": "Tempat favorit dan disukai semua orang orang di sekitar daerah kamu"
+      },
+      {
+        "title": "Ramai di didekatmu",
+        "paragraph": "Spot yang paling ramai dikunjungi para warga sekaligus para wisatawan"
+      }
+    ]
+  },
+  "galleryAndBlog": {
+    "subText": "MENGENAL DESTINIZE",
+    "mainText": "• Galeri Pariwisata & Blog Travel",
+    "content": [
+      {
+        "title": "Tips naik gunung Bromo Biar gak cepet capek",
+        "tanggal": "26 DESEMBER 2021",
+        "description": "Jadi gini gann, anda tau bromo? yaaa gunung kann!"
+      },
+      {
+        "title": "Tips-tips foto keren di kawah ijen",
+        "description": "Jadi ada beberapa Pose yang menurutku keren saat berada di kawah ijen..."
+      }
+    ],
+    "google": "Google",
+    "trending": "Trending"
+  },
+  "footerConstant": {
+    "description": " Destinize adalah website atau layanan aplikasi yang membantu kamu  memilih atau merekomendasikan tempat yang dijuluki ‘hidden gems’ agar lebih dikenal dan ramai",
+    "content": [
+      {
+        "title": "Tentang",
+        "lists": [
+          "Tentang Kami",
+          "Blog",
+          "Karir",
+          "Pekerjaan",
+          "Berita",
+          "Gallery",
+          "Aviliasi"
+        ]
+      },
+      {
+        "title": "Support",
+        "lists": [
+          "Kontak Kami",
+          "Online Chat",
+          "Whatsapp",
+          "Telegram",
+          "Tiket",
+          "Call Center",
+          "Bantuan"
+        ]
+      },
+      {
+        "title": "FAQ",
+        "lists": [
+          "Akun",
+          "Organisir",
+          "Order",
+          "Pembayaran",
+          "Pengembalian",
+          "Copyright",
+          "Bahasa"
+        ]
+      }
+    ]
+  },
+  "lihatSemua": "lihat semua",
+  "bacaSelengkapnya": "baca selengkapnya..."
+}

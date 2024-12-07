@@ -1,0 +1,242 @@
+{
+  "headerConstant": {
+    "placeholder": "搜索任何东西...",
+    "navLink": {
+      "gunung": {
+        "title": "山",
+        "content": [
+          "朱庇加峰",
+          "克琳奇火山",
+          "色目尔火山",
+          "林查尼火山",
+          "斯拉梅特火山",
+          "梅拉皮火山",
+          "松宾火山",
+          "劳武山",
+          "梅尔巴布火山",
+          "阿贡火山"
+        ]
+      },
+      "alam": {
+        "title": "自然",
+        "content": [
+          "布罗莫-滕格尔-瑟梅鲁国家公园",
+          "拉贾安帕特",
+          "多巴湖",
+          "科莫多岛",
+          "古努格勒瑟国家公园",
+          "科莫多国家公园",
+          "库塔海滩",
+          "婆罗浮屠寺",
+          "巴里桑巴里桑国家公园",
+          "宇航库隆国家公园，班登"
+        ]
+      },
+      "pantai": {
+        "title": "海滩",
+        "content": [
+          "库塔海滩",
+          "帕兰特里蒂斯海滩",
+          "粉红海滩",
+          "丹戎比拉海滩",
+          "奥拉海滩",
+          "潘达瓦海滩",
+          "帕普马海滩",
+          "勿里洞海滩",
+          "Seminyak海滩",
+          "丹戎勿洞海滩"
+        ]
+      },
+      "romantis": {
+        "title": "浪漫",
+        "content": [
+          "婆罗浮屠寺",
+          "波罗班庙",
+          "日惹皇宫",
+          "索罗皇宫",
+          "塔曼萨里",
+          "努桥堡",
+          "库塔伊卡尔塔内加拉国王陵墓",
+          "库托贝萨克堡",
+          "弗瑞德堡",
+          "伊莫吉里国王陵墓"
+        ]
+      },
+      "edukasi": {
+        "title": "教育",
+        "content": [
+          "印度尼西亚国家博物馆",
+          "萨特里亚曼达拉博物馆",
+          "班度地质博物馆",
+          "博格尔动物博物馆",
+          "印尼银行博物馆",
+          "苏门答腊海啸博物馆",
+          "皮影戏博物馆",
+          "乌兰·桑塔鲁博物馆",
+          "法塔希拉博物馆",
+          "桑吉兰原人博物馆"
+        ]
+      },
+      "sejarah": {
+        "title": "历史",
+        "content": [
+          "婆罗浮屠寺",
+          "波罗班庙",
+          "日惹皇宫",
+          "索罗皇宫",
+          "塔曼萨里",
+          "努桥堡",
+          "库塔伊卡尔塔内加拉国王陵墓",
+          "库托贝萨克堡",
+          "弗瑞德堡",
+          "伊莫吉里国王陵墓"
+        ]
+      }
+    }
+  },
+  "homeConstant": {
+    "subText": "• 探索印度尼西亚之美！",
+    "mainText": ["度假 & 享受", " 新地方 ", "在印度尼西亚"],
+    "paragraphs": "Destinize 通过关注社交媒体上的意见领袖，使您始终了解印度尼西亚的新度假胜地",
+
+    "button1": "立即开始",
+    "button2": "播放演示"
+  },
+  "favoriteConstant": {
+    "subText": "最喜爱的目的地",
+    "mainText": "• 发现您喜爱的目的地",
+    "image": [
+      {
+        "name": "平甘村",
+        "location": "巴厘岛",
+        "src": "desa-pinggan.png"
+      },
+      {
+        "name": "钻石海滩",
+        "location": "巴厘岛",
+        "src": "diamond-beach.png"
+      },
+      {
+        "name": "Bromo山",
+        "location": "东爪哇",
+        "src": "gunung-bromo.png"
+      },
+      {
+        "name": "伊真火山口",
+        "location": "东爪哇",
+        "src": "kawah-ijen.png"
+      },
+      {
+        "name": "拉布安巴焦",
+        "location": "努沙登加拉",
+        "src": "labuan-bajo.png"
+      },
+      {
+        "name": "粉红海滩",
+        "location": "努沙登加拉",
+        "src": "pantai-pink.png"
+      },
+
+      {
+        "name": "努沙佩尼达岛",
+        "location": "努沙登加拉",
+        "src": "pulau-penida.png"
+      },
+
+      {
+        "name": "Wajag岛",
+        "location": "巴厘岛",
+        "src": "pulau-wajag.png"
+      },
+      {
+        "name": "巴卢兰国家公园",
+        "location": "东爪哇",
+        "src": "taman-nasional-baluran.png"
+      }
+    ]
+  },
+  "reservasiConstant": {
+    "subText": "预订场所",
+    "mainText": "不想排队？只需预订！",
+    "ContentText": [
+      {
+        "img": "search.svg",
+        "title": "找到您想去的地方",
+        "paragraph": "发现您下一个要访问的目的地，与Destinize一起"
+      },
+      {
+        "img": "pencil.svg",
+        "title": "填写数据并确认付款",
+        "paragraph": "为预订目的填写和完成您的数据"
+      },
+      {
+        "img": "love.svg",
+        "title": "只需进入并享受",
+        "paragraph": "您可以直接进入并享受您的假期，无任何阻碍"
+      }
+    ]
+  },
+  "cariTempatConstant": {
+    "subText": "搜索旅游景点",
+    "mainText": "• 搜索附近的旅游景点",
+    "paragraph": "此功能允许您搜索您所在地区的旅游景点或热门地点，因此您将始终了解最新动态，不会过时",
+    "category": [
+      {
+        "title": "你附近的热门",
+        "paragraph": "大家都知道并且在你附近热门的旅游景点"
+      },
+      {
+        "title": "你附近的最爱",
+        "paragraph": "附近大家都喜欢的最爱之地"
+      },
+      {
+        "title": "你附近繁忙的地方",
+        "paragraph": "最受当地人和游客欢迎的地方"
+      }
+    ]
+  },
+  "galleryAndBlog": {
+    "subText": "了解Destinize",
+    "mainText": "• 旅游画廊和旅行博客",
+    "content": [
+      {
+        "title": "攀登Bromo山而不感到疲倦的提示",
+        "tanggal": "2021年12月26日",
+        "description": "所以在这里，各位，你们知道Bromo吗？是的，这座山！"
+      },
+      {
+        "title": "伊真火山口的摄影技巧",
+        "description": "所以在伊真火山口时有一些我认为很酷的姿势..."
+      }
+    ],
+    "google": "谷歌",
+    "trending": "趋势"
+  },
+  "footerConstant": {
+    "description": "Destinize是一家网站或应用服务，帮助您选择或推荐被称为“隐秘宝藏”的地方，使其更为人知和繁忙",
+    "content": [
+      {
+        "title": "关于我们",
+        "lists": ["关于我们", "博客", "职业", "工作", "新闻", "画廊", "会员"]
+      },
+      {
+        "title": "支持",
+        "lists": [
+          "联系我们",
+          "在线聊天",
+          "Whatsapp",
+          "Telegram",
+          "门票",
+          "呼叫中心",
+          "帮助"
+        ]
+      },
+      {
+        "title": "常见问题",
+        "lists": ["账户", "组织", "订单", "付款", "退货", "版权", "语言"]
+      }
+    ]
+  },
+  "lihatSemua": "查看全部",
+  "bacaSelengkapnya": "阅读更多..."
+}
